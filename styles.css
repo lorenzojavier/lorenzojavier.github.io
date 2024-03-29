@@ -1,0 +1,8 @@
+@font-face {
+  font-family: bohemian-typewriter.regular;
+  src: url(./typefaces/bohemian-typewriter.regular.ttf);
+}
+
+.bohemian-font {
+    font-family: bohemian-typewriter.regular;
+}
