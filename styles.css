@@ -3,6 +3,6 @@
   src: url(./typefaces/bohemian-typewriter.regular.ttf);
 }
 
-.bohemian-font {
-    font-family: bohemian-typewriter.regular;
+body {
+  font-family: bohemian-typewriter.regular;
 }
