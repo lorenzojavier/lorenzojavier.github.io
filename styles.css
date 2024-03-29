@@ -13,11 +13,6 @@ body {
   flex-direction: column;
   background-color: #F4CBC6;
   margin: 6%;
-  
-  background-image: url("./vgosn_vintage_decorative_frame_clipart_image_colored.svg");
-  background-repeat: no-repeat;  /* Prevents tiling */
-  background-position: center;  /* Positions the image */
-  background-size: 55vh;      /* Resizes the image */
 }
 
 h1 {
