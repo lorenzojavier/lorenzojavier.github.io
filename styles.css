@@ -12,6 +12,14 @@ body {
   min-height: 100vh;
   flex-direction: column;
   background-color: #F4CBC6;
+  margin: 6%;
+
+}
+
+@media print { 
+  body {
+    max-width: 200mm;
+  }
 }
 
 h1 {
