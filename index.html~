@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Lorenzo Javier</title>
 
-  <link rel="stylesheet" href="styles.css">
+<head>
+    <link rel="stylesheet" href="styles.css">  </head>
 <p>Bienvenido. Éste sitio está en construcción.</p>
 
 </head>
