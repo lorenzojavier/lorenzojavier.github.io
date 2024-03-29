@@ -1,11 +1,11 @@
 @font-face {
-  font-family: bohemian-typewriter.regular;
+  font-family: typewriter;
   src: url(./typefaces/bohemian-typewriter.regular.ttf);
 }
 
 
 body {
-  font-family: bohemian-typewriter.regular;
+  font-family: typewriter;
   display: flex;
   justify-content: center;
   align-items: center;
