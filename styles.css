@@ -12,3 +12,8 @@ body {
   min-height: 100vh;
   flex-direction: column;
 }
+
+h1 {
+  position: absolute;
+  top: 5%;
+}
