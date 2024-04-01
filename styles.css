@@ -3,19 +3,30 @@
   src: url(./typefaces/bohemian-typewriter.regular.ttf);
 }
 
+a {  /* Target all links (anchor tags) */
+border: 1px solid #ff0000;  /* Set border style, width, and color */
+padding: 5px;  /* Add some space between the text and the border (optional) */
+text-decoration: none;  /* Remove underline (default for links) */
+color: #FF0000; /* Set color to red using a hex code */
+}
+
+a:hover {  /* Style for links on hover (optional) */
+background-color: #ffffff;
+}
 
 body {
-  font-family: typewriter;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  flex-direction: column;
-  background-color: #F4CBC6;
-  margin: 6%;
+font-family: typewriter;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+min-height: 60vh;
+flex-direction: column;
+background-color: #000000;
+margin: 6%;
 }
 
 h1 {
-  position: relative;
-  top: 5%;
+position: relative;      top: 5%;
 }
