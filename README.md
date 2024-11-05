@@ -6,4 +6,4 @@ updated: 2024-11-04T18:15
 
 ## What is this?
 
-This is my personal webpage. I intend to use it to learn webdesign in practice, while cultivating a space to share some of my writing and other creative productions.
+This is my personal webpage. I intend to use it to learn webdesign in practice, and it will also be my house.
